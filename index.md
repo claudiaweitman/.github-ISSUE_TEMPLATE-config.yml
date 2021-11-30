@@ -15,6 +15,7 @@ B.S. Environmental and Natural Resource Economics, and Geological Oceanography s
 
 
 - [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+- [Intro Presentation] (file:///Users/claudiaweitman/Downloads/OCG%20404%20intro%20presentation%20(1).pdf)
 
 ---
 
